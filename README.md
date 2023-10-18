@@ -1,6 +1,6 @@
 # MoviesDB
 Добро пожаловать в репозиторий приложения  "MoviesDB"! Давайте рассмотрим основные аспекты этого проекта.
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/dreamybo1/MoviesDB/blob/gh-pages/screenshots/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2024-08-2023%20201338.jpg))
+![alt text](https://github.com/dreamybo1/MoviesDB/blob/gh-pages/screenshots/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2024-08-2023%20201338.jpg)
 
 
 ### Описание проекта
