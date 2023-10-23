@@ -1,12 +1,14 @@
 # MoviesDB
 Добро пожаловать в репозиторий приложения  "MoviesDB"! Давайте рассмотрим основные аспекты этого проекта.
-
+<div width="100%" align="center"> 
   <img src="https://github.com/dreamybo1/MoviesDB/blob/gh-pages/screenshots/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2024-08-2023%20201338.jpg" width="400" />
   <img src="https://github.com/dreamybo1/MoviesDB/blob/gh-pages/screenshots/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2024-08-2023%20201506.jpg" width="400" />
   <img src="https://github.com/dreamybo1/MoviesDB/blob/gh-pages/screenshots/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2024-08-2023%20201648.jpg" width="400" />
   <img src="https://github.com/dreamybo1/MoviesDB/blob/gh-pages/screenshots/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2024-08-2023%20201731.jpg" width="400" />
   <img src="https://github.com/dreamybo1/MoviesDB/blob/gh-pages/screenshots/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2024-08-2023%20201759.jpg" width="400" />
   <img src="https://github.com/dreamybo1/MoviesDB/blob/gh-pages/screenshots/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2024-08-2023%20201815.jpg" width="400" />
+</div>
+
 
 
 
